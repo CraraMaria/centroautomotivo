@@ -73,7 +73,10 @@ public class Veiculo {
 	}
 	
 
-// revisar essa parte
+       // revisar essa parte
+
+	// construtor parametrizado da classe
+	// O que ele faz é inicializar um novo objeto Veiculo com os valores que são fornecidos como parâmetros
 	
 	public Veiculo(String marca, String modelo, String placa, Date ano, float quilometragemtotal, String nomeproprietario, String cpfproprietario) {
         this.marca = marca;
