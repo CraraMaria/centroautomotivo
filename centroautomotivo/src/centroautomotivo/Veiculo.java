@@ -72,6 +72,8 @@ public class Veiculo {
 		this.cpfproprietario = cpfproprietario;
 	}
 	
+
+// revisar essa parte
 	
 	public Veiculo(String marca, String modelo, String placa, Date ano, float quilometragemtotal, String nomeproprietario, String cpfproprietario) {
         this.marca = marca;
